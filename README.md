@@ -2,8 +2,6 @@
 
 # Projeto de Manutenção Preditiva de Máquinas
 
-## Introdução
-
 Este projeto, inserido na área de Ciência de Dados, foca no processamento e transformação de dados, além da aplicação de modelos preditivos para a manutenção de máquinas. A detecção antecipada de falhas em máquinas é crucial para as indústrias, visando economizar custos. A instalação de sensores para monitorar o estado das máquinas e coletar informações adequadas pode resultar em significativa economia.
 
 Utilizamos o conjunto de dados de manutenção preditiva AI4I do Repositório UCI para uma análise precisa, visando responder à questão proposta. O desenvolvimento do projeto segue um padrão de Machine Learning, iniciando com a exploração do conjunto de dados para obter um entendimento profundo. Em seguida, aplicamos técnicas de pré-processamento para preparar os dados para os algoritmos utilizados nas previsões.
