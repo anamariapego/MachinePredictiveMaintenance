@@ -1,4 +1,4 @@
-name: project-mpm
+name: project-machine-maintenance
 dependencies:
   - python=3.11.4
   - pip
