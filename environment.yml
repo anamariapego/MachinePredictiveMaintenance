@@ -1,4 +1,4 @@
-name: project-machine-maintenance
+name: predictive-maintenance
 dependencies:
   - python=3.11.4
   - pip
