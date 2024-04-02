@@ -41,6 +41,8 @@ Com os dados preparados, aplicamos um algoritmo de machine learning para realiza
 * **environment.yml**: arquivo de configuração para criar o ambiente;
 * **requirements.txt**: lista de dependências das bibliotecas do projeto;
 
+<p><a href="#readme-top">Voltar</a></p>
+
 ## <img src="https://user-images.githubusercontent.com/57241391/217637444-71fb0baf-2675-4da8-b85f-fe5ee2ffd4c2.png" height="30"> Contato
 
 Não hesite em entrar em contato comigo caso tenha alguma dúvida ou esteja interessado em colaborar com o projeto.🙂
