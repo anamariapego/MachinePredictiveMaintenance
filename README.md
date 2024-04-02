@@ -16,6 +16,8 @@ O projeto, **Continuidade Operacional: Projeto Preditivo de Manutenção de Máq
 
 Para o desenvolvimento do projeto, utilizamos o conjunto de dados de [manutenção preditiva AI4I 2020 do UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset), que nos fornece informações essenciais para entender e abordar as necessidades identificadas. 
 
+<p><a href="#readme-top">Voltar</a></p>
+
 ## <img src="https://user-images.githubusercontent.com/57241391/217636535-f4831826-c808-4a6c-9598-664e0eedfc14.png" height="30"> Métodos Usados
 
 Inicialmente, realizamos uma análise exploratória dos dados para obter um entendimento abrangente do conjunto de dados. Essa etapa nos orienta na identificação de padrões, tendências e relações que podem ser cruciais para a manutenção preditiva.
