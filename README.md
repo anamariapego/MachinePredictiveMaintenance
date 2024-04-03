@@ -47,7 +47,7 @@ Com os dados preparados, aplicamos um algoritmo de machine learning para realiza
 
 Não hesite em entrar em contato comigo caso tenha alguma dúvida ou esteja interessado em colaborar com o projeto.🙂
 
-[Email](<anapinheiro0404@gmail.com>)
+Email: <anapinheiro0404@gmail.com>
 
 [Linkedin](https://www.linkedin.com/in/ana-pego/)
 
