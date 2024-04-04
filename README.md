@@ -49,7 +49,7 @@ Não hesite em entrar em contato comigo caso tenha alguma dúvida ou esteja inte
 
 Email: <anapinheiro0404@gmail.com>
 
-[Linkedin](https://www.linkedin.com/in/ana-pego/)
+Linkedin: https://www.linkedin.com/in/ana-pego/
 
 ## <img src="https://user-images.githubusercontent.com/57241391/217642578-1de992a9-8b94-41fc-b193-1ba0b8cd4141.png" height="30"> Referências
 
