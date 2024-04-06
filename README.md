@@ -40,6 +40,7 @@ Com os dados preparados, aplicamos um algoritmo de machine learning para realiza
 * **Readme.md**: descrição escrita do projeto;
 * **environment.yml**: arquivo de configuração para criar o ambiente;
 * **requirements.txt**: lista de dependências das bibliotecas do projeto;
+* **predictivemaintenance.ipynb**: código desenvolvido para o projeto;
 
 <p><a href="#readme-top">Voltar</a></p>
 
@@ -52,6 +53,8 @@ Email: <anapinheiro0404@gmail.com>
 Linkedin: https://www.linkedin.com/in/ana-pego/
 
 ## <img src="https://user-images.githubusercontent.com/57241391/217642578-1de992a9-8b94-41fc-b193-1ba0b8cd4141.png" height="30"> Referências
+
+https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification
 
 https://xgboost.readthedocs.io/en/stable/
 
