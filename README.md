@@ -2,9 +2,9 @@
 
 # Continuidade Operacional: Projeto Preditivo de Manutenção de Máquinas
 
-<img src="https://github.com/anamariapego/MachinePredictiveMaintenance/assets/57241391/48e23f70-c667-4e0c-b5cd-621ba17ed003" height="200">
+<img src="https://github.com/anamariapego/MachinePredictiveMaintenance/blob/main/machine.png?raw=true" height="200">
 
-## <img src="https://github.com/anamariapego/EDA_Turnover_Rate/assets/57241391/aa2724e5-9f72-40da-926a-bdf2f66a2bf4" height="30"> Descrição do Projeto 
+## <img src="https://github.com/anamariapego/MachinePredictiveMaintenance/assets/57241391/48e23f70-c667-4e0c-b5cd-621ba17ed003" height="30"> Descrição do Projeto 
 
 Garantir a operação contínua e eficiente das máquinas é fundamental para as indústrias da era 4.0. Antecipar falhas e entender sua natureza tornou-se crucial. Na maioria das vezes, os custos associados à reparação ou substituição de uma máquina defeituosa são consideravelmente mais altos do que os necessários para corrigir um único componente. Portanto, a instalação de sensores para monitorar o estado das máquinas e coletar dados relevantes oferece uma oportunidade significativa de economia para as indústrias.
 
