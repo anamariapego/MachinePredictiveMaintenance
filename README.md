@@ -2,7 +2,7 @@
 
 # Continuidade Operacional: Projeto Preditivo de Manutenção de Máquinas
 
-<img src="https://github.com/anamariapego/MachinePredictiveMaintenance/blob/main/machine.png" height="200">
+<img src="https://github.com/anamariapego/MachinePredictiveMaintenance/assets/57241391/48e23f70-c667-4e0c-b5cd-621ba17ed003" height="200">
 
 ## <img src="https://github.com/anamariapego/EDA_Turnover_Rate/assets/57241391/aa2724e5-9f72-40da-926a-bdf2f66a2bf4" height="30"> Descrição do Projeto 
 
